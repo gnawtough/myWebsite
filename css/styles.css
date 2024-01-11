@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #063363;
     color: #ffffff;
     text-align: center;
     padding: 1rem 0;
@@ -48,6 +48,6 @@ main section {
 footer {
     text-align: center;
     padding: 1rem 0;
-    background-color: #007bff;
+    background-color: #063363;
     color: #ffffff;
 }
