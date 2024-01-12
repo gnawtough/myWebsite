@@ -5,17 +5,17 @@ body, h1, h2, p, ul {
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #f4f4f4;
+    color: #333333;
+    background-color: #E6F7FF;
 }
 
 header {
-    background-color: #063363;
-    color: #ffffff;
+    background-color: #007BFF;
+    color: #E6F7FF;
     text-align: center;
-    padding: 1rem 0;
+    padding: 1rem;
 }
 
 header h1 {
@@ -48,6 +48,6 @@ main section {
 footer {
     text-align: center;
     padding: 1rem 0;
-    background-color: #063363;
+    background-color: #007BFF;
     color: #ffffff;
 }
