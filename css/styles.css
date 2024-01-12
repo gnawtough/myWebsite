@@ -3,6 +3,12 @@ body, h1, h2, p, ul {
     margin: 0;
     padding: 0;
 }
+/* CSS HEX 
+--azure: #007bffff;
+--alice-blue: #e6f7ffff;
+--picton-blue: #00a3e0ff;
+--lapis-lazuli: #005f9eff;
+--jet: #333333ff; */
 
 body {
     font-family: Helvetica, sans-serif;
